@@ -16,3 +16,12 @@ while not done:
         total_points += points[grade]
 if num_courses > 0:
     print("Your GPA is [0:.3]".format(total_points/num_courses))
+
+
+
+
+
+
+
+if __name__ == "__main__":
+    print("My name is Klvin")
